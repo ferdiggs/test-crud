@@ -7,7 +7,7 @@
 <table border="1">
     <tr>
         <th>ID</th>
-        <th>Nama</th>
+        <th>Nama Mahasiswa</th>
         <th>Alamat</th>
         <th>No HP</th>
         <th>AKSI</th>
